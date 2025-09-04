@@ -38,3 +38,4 @@ e: .../expo-modules-autolinking/.../SettingsManager.kt:112:15 Unresolved referen
 - Gradle: 8.7
 - JDK: 21
 - Node: 20.19.x
+- Mac OS
